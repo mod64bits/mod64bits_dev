@@ -1,4 +1,4 @@
-# mod64bits API e sostema
+# mod64bits API e Sistema
 
 Projeto de Orçamento e Cotação controle finaceiro da mod64bits
 
